@@ -1,0 +1,27 @@
+{
+  "name": "projeto-poked-x-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cegalvao92/Projeto-Poked-x.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cegalvao92/Projeto-Poked-x/issues"
+  },
+  "homepage": "https://github.com/cegalvao92/Projeto-Poked-x#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
